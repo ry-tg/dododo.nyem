@@ -1,0 +1,57 @@
+body{
+  text-align: center;
+  font-size: 30px;
+  background-color: rgb(0, 149, 255);
+}
+
+header {
+  background-color: darkorange;
+  width: 65%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+header h1 {
+  font-size: 40px;
+  padding: 30px 30px;
+  
+}
+
+input{
+  font-size: 30px;
+}
+
+.block{
+  width: 40px;
+  height: 40px;
+  vertical-align: middle;
+  margin-bottom: 10px;
+}
+
+input[value="O"] {
+  color: rgb(255, 0, 0);
+}
+
+input[value="X"] {
+  color: rgb(38, 0, 255);
+}
+
+footer {
+  background-color: rgb(108, 68, 164);
+  color: #fff;
+  margin-top: 40px;
+  width: 65%;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.logo {
+    font-size: 20px; 
+    padding-top: 20px;
+}
+
+.syamei {
+  font-size: 19px;
+  padding-bottom: 20px;
+}
